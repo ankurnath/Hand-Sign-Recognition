@@ -6,4 +6,4 @@ This project uses the [Hand Gesture Recognition Database](https://www.kaggle.com
 ![](images/input1.JPG)
 
 # Output (confusion matrix)
-![](Images/output1.JPG)
+![](images/output1.JPG)
